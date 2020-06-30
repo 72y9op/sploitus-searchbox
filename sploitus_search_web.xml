@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <!-- Created on Tue, 30 Jun 2020 01:14:13 GMT -->
+  <ShortName>Sploitus</ShortName>
+  <Description>It add Sploitus to the searchbox</Description>
+  <Url type="text/html" method="get" template="https://sploitus.com?query={searchTerms}#exploits"/>
+  <Url type="application/x-suggestions+json" template=""/>
+  <Image width="16" height="16">https://mycroftproject.com/updateos.php/id0/sploitus_search_web.ico</Image>
+  <Developer>72y9op</Developer>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>https://sploitus.com</moz:SearchForm>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://mycroftproject.com/updateos.php/id0/sploitus_search_web.xml"/>
+</OpenSearchDescription>
